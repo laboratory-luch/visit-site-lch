@@ -1,2 +1,2 @@
-# website-v2
-A simple replacement to my liveterm website
+# ZEOS-v1
+ZEOS and nothing extra
