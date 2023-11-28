@@ -1,2 +1,2 @@
-# ZEOS-v1
-ZEOS and nothing extra
+# Start page - with a link to projects
+initial-v1
